@@ -17,5 +17,8 @@ scrapy runspider cqu_news/spiders/crawl.py -o <output_file_name.json|csv> --logl
 
 参见博客：[[Python][Scrapy][爬虫]爬虫应用实战--重大新闻网新闻摘要.py](https://dexfire.cn/2020/06/12/Python-Scrapy-%E7%88%AC%E8%99%AB-%E7%88%AC%E8%99%AB%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98-%E9%87%8D%E5%A4%A7%E6%96%B0%E9%97%BB%E7%BD%91%E6%96%B0%E9%97%BB%E6%91%98%E8%A6%81-py/)
 
+## Issues & Messages
+欢迎发PR或Q275176629
+
 ## License
 [MIT](LICENSE)
